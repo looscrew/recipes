@@ -1,0 +1,20 @@
+Ingredients:
+- 1 ceiling with hook
+- 1 chair
+- 1 strong rope
+- A dose of depression
+
+Directions:
+1. Climb on chair.
+
+2. Tie rope to hook and make a loop.
+
+3. Insert head to loop.
+
+4. Tighten the loop.
+
+5. Use depression to pull the chair from under your feet.
+
+You are now in detached HEAD state
+
+git commit suicide
